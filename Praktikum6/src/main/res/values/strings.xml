@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Praktikum6</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="tampil_list">List</string>
+    <string name="tampil_grid">Grid</string>
+    <string name="tampil_card_view">Card View</string>
+
+    <string-array name="data_name">
+        <item>Wisata Pagubugan</item>
+        <item>The Village Purwokerto</item>
+        <item>Lokawisata Baturraden</item>
+        <item>The Village Baturraden</item>
+        <item>Air Terjun Curug  Jenggala</item>
+        <item>Telaga Sunyi</item>
+        <item>Pancuran Pitu</item>
+        <item>Dream Land Water Park</item>
+        <item>Taman Rekreasi Andhang Pangrenan</item>
+        <item>Curug Telu</item>
+        <item>Taman Balai Kemambang</item>
+        <item>Desa Wisata Ketenger</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada
+              di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga
+              Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho! Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat
+              si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.
+        </item>
+        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langsung mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di
+              sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang (burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyaklagi!
+        </item>
+        <item>Objek wisata populer satu ini menjadi pilihan yang paling menarik karena mengemas lebih dari satu konsep liburan dalam satu area. Para pengunjung dipuaskan dalam satu tempat, sehingga tempat wisata satu ini meraih banyak pengunjung. Anda dapat menikmati udara segar yang masih sangat alami
+              dari pepohonan di sekitar tempat wisata. Dengan begitu, tempat satu ini bisa dijadikan sebagai pelepas penat dan menyegarkan pikiran anda.
+        </item>
+        <item>Masih berada di kawasan yang sama, destinasi wisata ini memiliki konsep yang cukup beda daripada lainnya. Tempat berlibur satu ini sangat cocok untuk keluarga, terutama bagi yang telah memiliki anak. Saat ini, permainan yang ramah anak sangat kurang sehingga banyak anak yang memainkan permainan
+              berbahaya atau tidak sesuai dengan usianya. Akan tetapi, tempat ini memiliki permainan ramah anak yang sangat aman untuk buah hati anda.
+        </item>
+        <item>Sekilas tampak seperti air terjun pada umumnya, tetapi sederet pemandangan menarik telah disuguhkan untuk Anda. Air terjun ini memiliki empat air yang jatuh ke bawah dengan sumber air cukup deras. Yang membuat destinasi ini menarik, yaitu lanskap pemandangan eksotis antara air terjun, pepohonan
+              di sekitar, dan spot foto ikonik di depannya. Anda bisa berfoto dengan kekasih atau pasangan di tanda hati yang ada di depan air terjun.
+        </item>
+        <item>
+              Sesuai dengan namanya, telaga satu ini sangat sunyi dan tidak terdengar suara sedikit pun. Suara alam yang terdengar hanya gemericik air dan angin sepoi sepoi, sehingga cocok untuk Anda yang ingin menyendiri. Menyepi dari hiruk pikuknya perkotaan cukup menyenangkan dengan menikmati telaga sepi
+              satu ini. Mata para pengunjung juga dimanjakan dengan pemandangan luar biasa dari telaga yang berada di Limpakuwus ini.
+        </item>
+        <item>
+              Masih berada di kawasan wisata yang ada di Baturraden, Pancuran Pitu ini bukan hanya sekadar nama. Anda akan melihat secara langsung wisata dengan tujuh pancuran air yang mengandung belerang. Fungsi utama dari sumber air ini, yatu mencuci muka dan membilas kulit di pemandian. Dengan begitu,
+              kulit akan jauh lebih terawat karena kandungan air ini sangat baik untuk menjaga kulit tetap kenyal dan awet muda serta bebas dari penyakit.
+        </item>
+        <item>
+              Bila rekomendasi sebelumnya banyak yang cocok untuk generasi milenial yang sudah cukup umur, maka kali ini cocok untuk keluarga. Memilih wisata yang memiliki trekking cukup sulit tentu sangat berbahaya bagi anak anak. Oleh sebab itu, Dream Land Water Park ini cocok untuk Anda yang ingin
+              berlibur bersama buah hati. Yang membuat wisata ini sangat menarik yaitu adanya wahana air yang memuaskan untuk anak anak.
+        </item>
+        <item>
+              Tidak pernah puas untuk memberikan destinasi wisata keluarga terbaik, hingga muncullah taman Rekreasi Andhang Pangrenan. Lokasi satu ini memang tergolong ramai karena banyak keluarga yang datang, terutama di akhir pekan. Taman ini sebelumnya dipakai sebagai terminal Purwokerto, tetapi sekitar
+              8 hingga 9 tahun lalu konsepnya diubah. Anda bisa menjadikan tempat ini sebagai lokasi hunting foto yang menarik untuk hasil jepretan yang estetik.
+        </item>
+        <item>
+              Arti sebuah nama terasa sangat cocok disandingkan dengan air terjun saut ini. Air yang jatuh ke tanah terdapat tiga sumber dengan debit air yang berbeda beda. Ketinggian dari air terjun ini pun tak sama, sehingga menambah kesan estetik pemandangannya. Anda bisa berkunjung ke tempat ini bersama
+              partner berlibur yang tepat. Curug yang ada di kawasan Karangsalam ini wajib dikunjungi karena indahnya pemandangan alam yang luar biasa.
+        </item>
+        <item>
+              Tergolong sebagai destinasi wisata baru, tetapi sudah mampu memikat banyak wisatawan untuk berkunjung. Anda dapat melihat konsep bangunan yang berada di tengah kolam air cukup besar. Di tempat ini juga tersedia wahana air yang ramah anak, sehingga aman saat dimainkan oleh buah hati Anda. tidak
+              kalah penting, setiap wisatawan bisa ikut memberi pakan kepada hewan dan berjalan berkeliling area Taman Balai Kemambang.
+        </item>
+        <item>
+              Ingin berlibur ke kawasan desa dengan fasilitas yang sangat lengkap? Desa Ketenger ini sangat cocok untuk liburan keluarga karena menawarkan lingkungan yang asri dan masih kental dengan budayanya. Tidak hanya itu, lokasi satu ini juga memiliki aliran sungai di sepanjang desa lengkap dengan rumah
+              tradisional yang berjajar rapi. Desain rumah yang dipakai, yaitu bentuk panggung sehingga membuat udara sejuk masuk dengan baik ke dalam rumah.
+        </item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://ceblog.s3.amazonaws.com/wp-content/uploads/2012/05/20172622/ce-travel.jpg</item>
+        <item>https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/05/trip-1526620844.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Lokawisata-Baturraden.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/The-Village-Baturraden.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Air-Terjun-Curug-Jenggala.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Telaga-Sunyi.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Pancuran-Pitu.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Dream-Land-Water-Park.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Taman-Rekreasi-Andhang-Pangrenan.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Curug-Telu.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Taman-Balai-Kemambang.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/09/Desa-Wisata-Ketenger.jpg</item>
+    </string-array>
+</resources>
