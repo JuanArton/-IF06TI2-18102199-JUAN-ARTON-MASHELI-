@@ -5,3 +5,5 @@ include ':app1'
 include ':lifecycleapp'
 include ':app'
 rootProject.name = "Hello IT Telkom Purwokerto"
+include ':Prakstikum9'
+include ':praktikum9'

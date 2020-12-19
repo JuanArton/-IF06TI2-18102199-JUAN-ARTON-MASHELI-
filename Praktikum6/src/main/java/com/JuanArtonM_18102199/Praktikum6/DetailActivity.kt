@@ -22,11 +22,11 @@ class DetailActivity : AppCompatActivity() {
         findViewById<CollapsingToolbarLayout>(R.id.toolbar_layout).title = title
 
         val myData by getParcelableExtra<MyData>(DetailActivity.EXTRA_MYDATA)
-        toolbar_layout.setTitle(myData.name.toString())
+        toolbar_layout.setTitle(myData?.name.toString())
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-        tv_detail_description.text = myData.description.toString()
+        tv_detail_description.text = myData?.description.toString()
         Glide.with(this)
-                .load(myData.photo.toString())
+                .load(myData?.photo.toString())
                 .apply(RequestOptions().override(700, 700))
                 .into(iv_detail_photo)
 
