@@ -40,6 +40,7 @@ class ListMyDataAdapter(private val listMyData: ArrayList<MyData>, val context: 
                     .into(img_item_photo)
                 tv_item_name.text = myData.name
                 tv_item_description.text = myData.description
+
             }
         }
     }
