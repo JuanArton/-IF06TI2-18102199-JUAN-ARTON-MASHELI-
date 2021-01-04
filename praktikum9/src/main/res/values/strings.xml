@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Praktikum9</string>
+    <string name="name">Name</string>
+    <string name="default_name">No Name</string>
+    <string name="email">Email</string>
+    <string name="default_email">No Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="default_phone">No Phone Number</string>
+    <string name="age">Umur</string>
+    <string name="default_age">No Age</string>
+    <string name="tv_theme">Theme Mode</string>
+    <string name="default_theme">System Default</string>
+    <string name="setting">Setting</string>
+    <string name="phone_number">phone_number</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="save">save</string>
+    <string name="main_title">Home</string>
+    <string name="setting_page">Setting</string>
+    <string name="field_required">Field Required</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+    <string name="field_digit_only">Field digit only</string>
+    <string name="universitas">Universitas</string>
+    <string name="default_univ">No Universitas</string>
+    <string name="slogan">Slogan</string>
+    <string name="default_slogan">No Slogan</string>
+</resources>

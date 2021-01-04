@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hello_IT_Telkom_Purwokerto.iml" filepath="$PROJECT_DIR$/.idea/modules/Hello_IT_Telkom_Purwokerto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Praktikum9/Hello_IT_Telkom_Purwokerto.Prakstikum9.iml" filepath="$PROJECT_DIR$/.idea/modules/Praktikum9/Hello_IT_Telkom_Purwokerto.Prakstikum9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Praktikum5/Hello_IT_Telkom_Purwokerto.Praktikum5.iml" filepath="$PROJECT_DIR$/.idea/modules/Praktikum5/Hello_IT_Telkom_Purwokerto.Praktikum5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Praktikum6/Hello_IT_Telkom_Purwokerto.Praktikum6.iml" filepath="$PROJECT_DIR$/.idea/modules/Praktikum6/Hello_IT_Telkom_Purwokerto.Praktikum6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Praktikum8/Hello_IT_Telkom_Purwokerto.Praktikum8.iml" filepath="$PROJECT_DIR$/.idea/modules/Praktikum8/Hello_IT_Telkom_Purwokerto.Praktikum8.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello_IT_Telkom_Purwokerto.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello_IT_Telkom_Purwokerto.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app1/Hello_IT_Telkom_Purwokerto.app1.iml" filepath="$PROJECT_DIR$/.idea/modules/app1/Hello_IT_Telkom_Purwokerto.app1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycleapp/Hello_IT_Telkom_Purwokerto.lifecycleapp.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycleapp/Hello_IT_Telkom_Purwokerto.lifecycleapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/praktikum10/Hello_IT_Telkom_Purwokerto.praktikum10.iml" filepath="$PROJECT_DIR$/.idea/modules/praktikum10/Hello_IT_Telkom_Purwokerto.praktikum10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/praktikum9/Hello_IT_Telkom_Purwokerto.praktikum9.iml" filepath="$PROJECT_DIR$/.idea/modules/praktikum9/Hello_IT_Telkom_Purwokerto.praktikum9.iml" />
     </modules>
   </component>
 </project>
