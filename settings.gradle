@@ -8,3 +8,4 @@ rootProject.name = "Hello IT Telkom Purwokerto"
 include ':Prakstikum9'
 include ':praktikum9'
 include ':praktikum10'
+include ':praktikum11'
