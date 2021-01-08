@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum8</string>
+    <string name="check_sms_permission">CHECK SMS PERMISSION</string>
+    <string name="this_play">This Play</string>
+    <string name="close">Close</string>
+    <string name="incoming_message">Incoming Message</string>
+    <string name="coming_from">Coming From</string>
+    <string name="warn">Pesan ini aman.</string>
+</resources>
