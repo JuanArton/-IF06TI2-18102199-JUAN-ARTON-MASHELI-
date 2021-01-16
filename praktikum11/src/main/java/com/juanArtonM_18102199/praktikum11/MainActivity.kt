@@ -1,10 +1,10 @@
 package com.juanArtonM_18102199.praktikum11
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.isVisible
 import com.bumptech.glide.Glide
 import com.google.android.gms.auth.api.signin.GoogleSignIn
@@ -27,6 +27,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         auth = Firebase.auth
         val currentUser = auth.currentUser
+
+        binding.qButton.setOnClickListener {
+            val intent = Intent(this, DashboardQuoteActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
 
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestIdToken(getString(R.string.default_web_client_id))

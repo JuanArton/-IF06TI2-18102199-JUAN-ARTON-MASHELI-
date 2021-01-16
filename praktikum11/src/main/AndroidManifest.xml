@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.juanArtonM_18102199.praktikum11">
 
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -12,7 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloITTelkomPurwokerto">
-        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".PhoneAuthActivity"></activity>
+        <activity android:name=".QuoteAddUpdateActivity" />
+        <activity android:name=".DashboardQuoteActivity" />
+        <activity android:name=".SignUpActivity" />
         <activity android:name=".SignInActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
