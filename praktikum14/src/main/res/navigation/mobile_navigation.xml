@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_my_quotes">
+    <fragment
+        android:id="@+id/navigation_my_quotes"
+        android:name="com.juanArtonM_18102199.praktikum14.ui.myquotes.MyQuotesFragment"
+        android:label="@string/my_quotes"
+        tools:layout="@layout/fragment_my_quotes" />
+    <fragment
+        android:id="@+id/navigation_class_quotes"
+        android:name="com.juanArtonM_18102199.praktikum14.ui.classquotes.ClassQuotesFragment"
+        android:label="@string/class_quotes"
+        tools:layout="@layout/fragment_class_quotes" />
+    <fragment
+        android:id="@+id/navigation_global_quotes"
+        android:name="com.juanArtonM_18102199.praktikum14.ui.globalquotes.GlobalQuotesFragment"
+        android:label="@string/global_quotes"
+        tools:layout="@layout/fragment_global_quotes" />
+</navigation>

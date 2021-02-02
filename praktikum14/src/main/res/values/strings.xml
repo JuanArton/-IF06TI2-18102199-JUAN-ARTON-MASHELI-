@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">praktikum14</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="my_quotes">My Quotes</string>
+    <string name="class_quotes">Class Quotes</string>
+    <string name="global_quotes">Global Quotes</string>
+    <string name="logout">Logout</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="owner">Owner</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+</resources>
